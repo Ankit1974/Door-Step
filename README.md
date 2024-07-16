@@ -81,3 +81,19 @@ To learn more about React Native, take a look at the following resources:
 =======
 # Doore-Step
 >>>>>>> 669ca1af1c500ac70d2422148abb09965967febd
+>>>>>>> 
+
+
+
+[visit website](https:// "fsifj")
+
+_italic_
+
+
+# Door Step
+
+## Features
+
+ ### Navigation 
+
+
